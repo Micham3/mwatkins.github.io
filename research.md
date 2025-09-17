@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-permalink: mwatkins.github.io/research.md
+permalink: /research.md
 ---
 
 # Research Overview
