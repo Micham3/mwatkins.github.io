@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-permalink: /research.md
+permalink: /Research
 ---
 
 # Research Overview
