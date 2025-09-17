@@ -5,9 +5,19 @@ title: Michaela Watkins
 
 # Michaela Watkins
 
-PhD candidate at the University of Amsterdam
+PhD candidate at the University of Amsterdam.
+
+I am currently about to start my final year (!) at the University of Amsterdam, under the supervision of dr. Silke Hamann and Prof. Arjen Versloot
+
+## Research Interests
+
+
 
 ## Current Projects
 
 
-## Contact
+
+
+## Contact and Collaborations
+
+You can email me at my university address: m.m.watkins@uva.nl
