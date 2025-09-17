@@ -9,7 +9,7 @@ PhD candidate at the University of Amsterdam, under the supervision of dr. Silke
 
 ## Research
 
-[View My Research](/research.md)
+[View My Research](/research.html)
 
 ## Current Projects
 
