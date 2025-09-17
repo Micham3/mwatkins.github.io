@@ -11,7 +11,7 @@ I am currently about to start my final year (!) at the University of Amsterdam, 
 
 ## Research Interests
 
-[View My Research](/research/)
+[View My Research](/research)
 
 ## Current Projects
 
