@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-permalink: /research.html
+permalink: /research/
 ---
 
 # Research Overview
